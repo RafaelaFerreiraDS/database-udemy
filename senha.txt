@@ -1,0 +1,4 @@
+CREATE USER 'rafaela'@'localhost' IDENTIFIED BY 'rafaela'
+
+user: rafaela
+password: rafaela
